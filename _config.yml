@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Applied Aerothermodynamics Group
 
 # Your name to show in the footer
-author: Some Person
+author: Sung Min Jo
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "People"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
