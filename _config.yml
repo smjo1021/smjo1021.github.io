@@ -20,11 +20,13 @@ author: Sung Min Jo
 ###############################################
 
 navbar-links:
-  People: "People"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Members: "Members"
+    - PI: "PI"
+    - Researchers: "Researchers"
+  Research: "Research"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Publications: "Publications"
 
 ################
 # --- Logo --- #
