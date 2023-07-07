@@ -20,7 +20,7 @@ author: Sung Min Jo
 ###############################################
 
 navbar-links:
-  About Me: "People"
+  People: "People"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
