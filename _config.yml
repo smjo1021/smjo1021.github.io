@@ -21,8 +21,8 @@ author: Sung Min Jo
 
 navbar-links:
   Members: "aboutme"
-  Research: "Research"
-  Publications: "Publications"
+  Research: "aboutme"
+  Publications: "aboutme"
 
 ################
 # --- Logo --- #
