@@ -20,9 +20,9 @@ author: Sung Min Jo
 ###############################################
 
 navbar-links:
-  Members: "aboutme"
-  Research: "aboutme"
-  Publications: "aboutme"
+  Members: "members"
+  Research: "research"
+  Publications: "publications"
 
 ################
 # --- Logo --- #
