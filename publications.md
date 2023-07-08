@@ -187,12 +187,12 @@ role="doc-biblioentry">
 
 <li>
 <div id="ref-Jo2019Rotor" class="csl-entry" role="doc-biblioentry">
-<b><u>S. M. Jo</u></b>, and O. J. Kwon. 2019. <span>“Numerical Study of Air-Launched Projectiles for Fixed Rotary Wing Aircraft Safety.”</span> In <em>8th <span>A</span>sian<span>A</span>ustralian <span>R</span>otorcraft <span>F</span>orum</em>.</div>
+<b><u>S. M. Jo</u></b>, and O. J. Kwon. 2019. <span>“Numerical Study of Air-Launched Projectiles for Fixed Rotary Wing Aircraft Safety.”</span> In <em>8th <span>A</span>sian/<span>A</span>ustralian <span>R</span>otorcraft <span>F</span>orum</em>.</div>
 </li>
 
 <li>
 <div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry"> 
-<b><u>S. M. Jo</u></b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian<span>A</span>ustralian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
+<b><u>S. M. Jo</u></b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian/<span>A</span>ustralian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
 </li>
 
 <li>
