@@ -128,14 +128,14 @@ navbar-var-length: false
 
 # smjo customize
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000033"
 page-col: "#222831"
-text-col: "#404040"
+text-col: "#FFFFFF"
 link-col: "#f96d00"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#f96d00"
 footer-hover-col: "#0085A1"
 
