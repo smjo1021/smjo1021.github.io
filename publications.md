@@ -6,33 +6,37 @@ title: Publications
 # Archival International Journals
 
 <ol reversed>
+
+<li>
+<div id="ref-jo2020HMT" class="csl-entry" role="doc-biblioentry">
+<b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2020. <span>“<span>S</span>tagnation-Point Heating of <span>F</span>ire <span>II</span> with a Non-<span>B</span>oltzmann Radiation Model.”</span> <em>International Journal of Heat and Mass Transfer</em> 153: 119566.
+</div>
+</li>
+
 <li>
 <div id="ref-jo2019PRE" class="csl-entry" role="doc-biblioentry"> 
 <b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2019. <span>“<span>E</span>lectronic-State-Resolved Analysis of High-Enthalpy Air Plasma Flows.”</span> <em>Physical Review E</em> 100:033203.
 </div>
 </li>
+
 <li>
 <div id="ref-jo2018Infrared" class="csl-entry" role="doc-biblioentry"> 
 <b><u>S. M. Jo</u></b>, J. W. Kim, and O. J. Kwon. 2018 <span>“<span>A</span> Narrow-Band k-Distribution Model with Single Mixture Gas Assumption for Radiative Flows.”</span> <em>Infrared Physics &amp; Technology</em> 91:27–36.
 </div>
 </li>
+
+<li>
+<div id="ref-jo2018Underwater" class="csl-entry" role="doc-biblioentry">
+<b><u>S. M. Jo</u></b>, H. M. Lee, and O. J. Kwon. 2018. <span>“<span>P</span>rediction of Surficial Pressure Loading for an Underwater Projectile Using CFD-Based Database.”</span> <em>International Journal of Aeronautical and Space Sciences</em> 19:618–25.
+</div>
+</li>
+  
 </ol>
 
 
 
-<div id="ref-jo2020HMT" class="csl-entry" role="doc-biblioentry">
-———. 2020b. <span>“<span>S</span>tagnation-Point Heating of
-<span>F</span>ire <span>II</span> with a Non-<span>B</span>oltzmann
-Radiation Model.”</span> <em>International Journal of Heat and Mass
-Transfer</em> 153: 119566.
-</div>
-<div id="ref-jo2018Underwater" class="csl-entry" role="doc-biblioentry">
-<b><u>S. M. Jo</u></b>, H. M. Lee, and O. J. Kwon. 2018.
-<span>“<span>P</span>rediction of Surficial Pressure Loading for an
-Underwater Projectile Using CFD-Based Database.”</span>
-<em>International Journal of Aeronautical and Space Sciences</em> 19:
-618–25.
-</div>
+
+
 <div id="ref-jo2022rovibrational" class="csl-entry"
 role="doc-biblioentry">
 <b><u>S. M. Jo</u></b>, Alessandro Munafò, Maitreyee Sharma, Simone Venturi, and
