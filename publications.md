@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Publications
-subtitle: Subtitle here
 ---
 
-Publications here.
+# Archival International Journals
+
+# International Conference Proceedings
+
+# Under Review/In Preparation Journals
