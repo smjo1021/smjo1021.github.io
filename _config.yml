@@ -127,14 +127,14 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 # smjo customize
-navbar-col: "#EAEAEA"
+navbar-col: "#2c2d34"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#000033"
+navbar-border-col: "#2c2d34"
 page-col: "#222831"
 text-col: "#FFFFFF"
 link-col: "#f96d00"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#2c2d34"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#f96d00"
 footer-hover-col: "#0085A1"
