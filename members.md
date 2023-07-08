@@ -9,7 +9,7 @@ title: Members
   - M.S. KAIST (2016)
   - Ph.D. KAIST (2020)
 
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/CV_07062023.pdf">Download PDF</a>.</p>
+This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/CV_07062023.pdf">Download PDF</a>.
 
 
 
