@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+bibliography: mybib.bib
 ---
 
 # Archival International Journals
