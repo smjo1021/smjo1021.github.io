@@ -140,6 +140,8 @@ footer-link-col: "#f96d00"
 footer-hover-col: "#0085A1"
 footer-border-col: "#2c2d34"
 page-border-col: "#2c2d34"
+page-col: "#222831"
+
 
 # origin
 #navbar-col: "#EAEAEA"
