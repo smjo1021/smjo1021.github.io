@@ -6,6 +6,6 @@ title: Publications
 # Archival International Journals
 
 <ol reversed>
-<li>coffe</li>
-<li>tea</li>
+<li>coffee - here</li>
+<li>tea - here</li>
 </ol>
