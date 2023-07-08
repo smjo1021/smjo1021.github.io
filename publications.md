@@ -9,13 +9,13 @@ title: Publications
 
 <li>
 <div id="ref-jo2023O4" class="csl-entry" role="doc-biblioentry">
-<b><u>S. M. Jo</u></b>, Simone Venturi, Jae Gang Kim, and Marco Panesi. 2023. <span>“Rovibrational Internal Energy Transfer and Dissociation of High-Temperature Oxygen Mixture.”</span> <em>Journal of Chemical Physics</em> 158: 064305.
+<b><u>S. M. Jo</u></b>, S. Venturi, J. G. Kim, and M. Panesi. 2023. <span>“Rovibrational Internal Energy Transfer and Dissociation of High-Temperature Oxygen Mixture.”</span> <em>Journal of Chemical Physics</em> 158: 064305.
 </div>
 </li>
 
 <li>
 <div id="ref-sharma2022hcn" class="csl-entry" role="doc-biblioentry">
-Sharma, M., <b><u>S. M. Jo</u></b>, S. Venturi, D. Schwenke, R. Jaffe, and M. Panesi. 2022. <span>“A Comprehensive Study of <span>HCN</span>: Potential Energy Surfaces, State-to-State Kinetics and Master Equation Analysis.”</span> <em>Journal of Physical Chemistry A</em> 126: 8249–65.
+M. Sharma, <b><u>S. M. Jo</u></b>, S. Venturi, D. Schwenke, R. Jaffe, and M. Panesi. 2022. <span>“A Comprehensive Study of <span>HCN</span>: Potential Energy Surfaces, State-to-State Kinetics and Master Equation Analysis.”</span> <em>Journal of Physical Chemistry A</em> 126: 8249–65.
 </div>
 </li>
 
@@ -40,14 +40,14 @@ S. Jung, <b><u>S. M. Jo</u></b>, and O. J. Kwon. 2022. <span>“<span>A</span>n 
 
 <li>
 <div id="ref-jo2021HMT" class="csl-entry" role="doc-biblioentry">
-Kim, J. G., and <b><u>S. M. Jo</u></b>. 2021. <span>“<span>M</span>odification of Chemical-Kinetic Parameters for 11-Air Species in Re-Entry
+J. G. Kim, and <b><u>S. M. Jo</u></b>. 2021. <span>“<span>M</span>odification of Chemical-Kinetic Parameters for 11-Air Species in Re-Entry
 Flows.”</span> <em>International Journal of Heat and Mass Transfer</em>169: 120950 (Co-corresponding author).
 </div>
 </li>
 
 <li>
 <div id="ref-jo2021JQSRT" class="csl-entry" role="doc-biblioentry">
-Shim, H., <b><u>S. M. Jo</u></b>, O. J. Kwon, and G. Park. 2021. <span>“<span>T</span>emperature Measurement of Carbon Dioxide Using Emission Spectroscopy.”</span> <em>Journal of Quantitative Spectroscopy and Radiative Transfer</em> 260: 107463.
+H. Shim, <b><u>S. M. Jo</u></b>, O. J. Kwon, and G. Park. 2021. <span>“<span>T</span>emperature Measurement of Carbon Dioxide Using Emission Spectroscopy.”</span> <em>Journal of Quantitative Spectroscopy and Radiative Transfer</em> 260: 107463.
 </div>
 </li>
 
@@ -59,7 +59,7 @@ Shim, H., <b><u>S. M. Jo</u></b>, O. J. Kwon, and G. Park. 2021. <span>“<span>
 
 <li>
 <div id="ref-jo2021Catalytic" class="csl-entry" role="doc-biblioentry">
-Kim, I., Y. Yang, G. Park, and <b><u>S. M. Jo</u></b>. 2021. <span>“<span>C</span>atalytic Recombination Assessment on Carbon in Dissociated Shock Tube Flow.”</span> <em>Acta Astronautica</em> 181:52–60.
+I. Kim, Y. Yang, G. Park, and <b><u>S. M. Jo</u></b>. 2021. <span>“<span>C</span>atalytic Recombination Assessment on Carbon in Dissociated Shock Tube Flow.”</span> <em>Acta Astronautica</em> 181:52–60.
 </div>
 </li>
 
@@ -134,7 +134,7 @@ P. R. Sirmalla, <b><u>S. M. Jo</u></b>, R. Chiodi, A. Munafò, M. Panesi, and D.
 
 <li>
 <div id="ref-Kumar2022RHTG9" class="csl-entry" role="doc-biblioentry">
-Kumar, S., <b><u>S. M. Jo</u></b>, A. Munafò, and M. Panesi. 2022. <span>“Non-Equilibrium Modeling of Inductively Coupled Plasma Discharges.”</span> In <em>9th <span>I</span>nternational <span>W</span>orkshop on <span>R</span>adiation of <span>H</span>igh <span>T</span>emperature <span>G</span>ases for <span>S</span>pace <span>M</span>issions</em>.
+S. Kumar, <b><u>S. M. Jo</u></b>, A. Munafò, and M. Panesi. 2022. <span>“Non-Equilibrium Modeling of Inductively Coupled Plasma Discharges.”</span> In <em>9th <span>I</span>nternational <span>W</span>orkshop on <span>R</span>adiation of <span>H</span>igh <span>T</span>emperature <span>G</span>ases for <span>S</span>pace <span>M</span>issions</em>.
 </div>
 </li>
 
@@ -158,7 +158,7 @@ Kumar, S., <b><u>S. M. Jo</u></b>, A. Munafò, and M. Panesi. 2022. <span>“Non
 
 <li>
 <div id="ref-Kumar2022ICP" class="csl-entry" role="doc-biblioentry">
-Kumar, S., A. Munafò, <b><u>S. M. Jo</u></b>, N. N. Mansour, and M. Panesi. 2022. <span>“High-Fidelity Simulation of <span>RF</span> Inductively Coupled Plasma Discharges.”</span> In <em><span>AIAA</span> <span>A</span>viation <span>F</span>orum</em>. 3362.
+S. Kumar, A. Munafò, <b><u>S. M. Jo</u></b>, N. N. Mansour, and M. Panesi. 2022. <span>“High-Fidelity Simulation of <span>RF</span> Inductively Coupled Plasma Discharges.”</span> In <em><span>AIAA</span> <span>A</span>viation <span>F</span>orum</em>. 3362.
 </div>
 </li>
 
@@ -176,19 +176,23 @@ role="doc-biblioentry">
 </li>
 
 <li>
-<div id="ref-Jo2020N4" class="csl-entry" role="doc-biblioentry"> <b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2020. <span>“Master Equation Analysis and Rotational Relaxation Time for <span class="math inline">N<sub>2</sub></span>-<span class="math inline">N<sub>2</sub></span>.”</span> In <em><span>AIAA</span> <span>S</span>ci<span>T</span>ech</em>. 1711.</div>
+<div id="ref-Jo2020N4" class="csl-entry" role="doc-biblioentry"> 
+<b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2020. <span>“Master Equation Analysis and Rotational Relaxation Time for <span class="math inline">N<sub>2</sub></span>-<span class="math inline">N<sub>2</sub></span>.”</span> In <em><span>AIAA</span> <span>S</span>ci<span>T</span>ech</em>. 1711.</div>
 </li>
 
 <li>
-<div id="ref-Jo2019Scitech" class="csl-entry" role="doc-biblioentry"><b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2019. <span>“An Electronic State-to-State Analysis Method for Nonequilibrium Air Flows.”</span> In <em><span>AIAA</span> <span>S</span>ci<span>T</span>ech</em>. 0799.</div>
+<div id="ref-Jo2019Scitech" class="csl-entry" role="doc-biblioentry">
+<b><u>S. M. Jo</u></b>, O. J. Kwon, and J. G. Kim. 2019. <span>“An Electronic State-to-State Analysis Method for Nonequilibrium Air Flows.”</span> In <em><span>AIAA</span> <span>S</span>ci<span>T</span>ech</em>. 0799.</div>
 </li>
 
 <li>
-<div id="ref-Jo2019Rotor" class="csl-entry" role="doc-biblioentry"><b><u>S. M. Jo</u></b>, and O. J. Kwon. 2019. <span>“Numerical Study of Air-Launched Projectiles for Fixed Rotary Wing Aircraft Safety.”</span> In <em>8th <span>A</span>sian<span>A</span>ustralian <span>R</span>otorcraft <span>F</span>orum</em>.</div>
+<div id="ref-Jo2019Rotor" class="csl-entry" role="doc-biblioentry">
+<b><u>S. M. Jo</u></b>, and O. J. Kwon. 2019. <span>“Numerical Study of Air-Launched Projectiles for Fixed Rotary Wing Aircraft Safety.”</span> In <em>8th <span>A</span>sian<span>A</span>ustralian <span>R</span>otorcraft <span>F</span>orum</em>.</div>
 </li>
 
 <li>
-<div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry"> <b><u>S. M. Jo</u></b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian<span>A</span>ustralian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
+<div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry"> 
+<b><u>S. M. Jo</u></b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian<span>A</span>ustralian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
 </li>
 
 <li>
