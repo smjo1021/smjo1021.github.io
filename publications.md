@@ -8,11 +8,11 @@ bibliography: mybib.bib
 
 <ol reversed>
 <li>
-<div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry"> <b>S. M. Jo</b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian<span>A</span>Australian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
+<div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry"> <b><u>S. M. Jo</u></b>, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In <em>7th <span>A</span>sian<span>A</span>Australian <span>R</span>rotorcraft <span>F</span>orum</em>.</div>
 </li>
 
 <li>
-<div id="ref-jo2018Infrared" class="csl-entry" role="doc-biblioentry"> <b>S. M. Jo</b>, J. W. Kim, and O. J. Kwon. 2018. <span>“<span>A</span> Narrow-Band k-Distribution Model with Single Mixture Gas Assumption for Radiative Flows.”</span> <em>Infrared Physics &amp; Technology</em> 91:27–36.</div>
+<div id="ref-jo2018Infrared" class="csl-entry" role="doc-biblioentry"> <b><u>S. M. Jo</u></b>, J. W. Kim, and O. J. Kwon. 2018. <span>“<span>A</span> Narrow-Band k-Distribution Model with Single Mixture Gas Assumption for Radiative Flows.”</span> <em>Infrared Physics &amp; Technology</em> 91:27–36.</div>
 </li>
 </ol>
 
