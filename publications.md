@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: Also check out Google Scholar
+subtitle: Also check out <a href="https://scholar.google.co.kr/citations?user=qQAZGNQAAAAJ&hl=en
+">Google Scholar</a>.
 ---
-
-https://scholar.google.co.kr/citations?user=qQAZGNQAAAAJ&hl=en
-
 
 # Archival International Journals
 
