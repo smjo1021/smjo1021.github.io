@@ -3,8 +3,8 @@ layout: page
 title: Members
 ---
 
-# Faculty Members
-## Sung Min Jo (Assistant Professor/Coordinator/CV)
+# Coordinator
+## Sung Min Jo (Assistant Professor/CV)
   - B.S. Korea Aerospace University (2014)
   - M.S. KAIST (2016)
   - Ph.D. KAIST (2020)
