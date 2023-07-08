@@ -6,13 +6,15 @@ bibliography: mybib.bib
 
 # Archival International Journals
 
-
+<ol reversed>
 <div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry">
 Jo, Sung Min, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study
 of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In
 <em>7th <span>A</span>sian<span>A</span>ustralian
 <span>R</span>otorcraft <span>F</span>orum</em>.
 </div>
+</ol>
+
 <div id="ref-jo2018Infrared" class="csl-entry" role="doc-biblioentry">
 Jo, Sung Min, J. W. Kim, and O. J. Kwon. 2018. <span>“<span>A</span>
 Narrow-Band k-Distribution Model with Single Mixture Gas Assumption for
