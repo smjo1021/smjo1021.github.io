@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.25rem;
+  font-size: 2.25rem;
 }
 h2 {
   font-size: 1.875rem;
@@ -670,7 +670,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  padding: 6.25rem 0;
+  padding: 1.25rem 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
@@ -684,7 +684,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 } 
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 0.6875rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
