@@ -20,20 +20,6 @@ title: Publications
 
 
 
-<ol reversed>
-  <li>coffee</li>
-  <li>tea</li>
-</ol>
-
-<ol reversed>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Milk</li>
-</ol>
-
-
-
-
 <div id="ref-jo2020HMT" class="csl-entry" role="doc-biblioentry">
 ———. 2020b. <span>“<span>S</span>tagnation-Point Heating of
 <span>F</span>ire <span>II</span> with a Non-<span>B</span>oltzmann
