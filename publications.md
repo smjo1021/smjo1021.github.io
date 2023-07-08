@@ -21,8 +21,8 @@ bibliography: mybib.bib
 
 
 <ol reversed>
-<li>coffee</li>
-<li>tea</li>
+  <li>coffee</li>
+  <li>tea</li>
 </ol>
 
 
