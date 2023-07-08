@@ -210,7 +210,7 @@ role="doc-biblioentry">
 
 <li>
 <div id="ref-Jo2022MURP" class="csl-entry" role="doc-biblioentry">
-<b><u>S. M. Jo</u></b>, and M. Panesi. 2022. <span>“High-Performance and Multi-Fidelity Radiation Analysis for Hypersonic Aerothermodynamics (<span>I</span>n <span>P</span>reparation).”</span>
+<b><u>S. M. Jo</u></b>, and M. Panesi. 2023. <span>“High-Performance and Multi-Fidelity Radiation Analysis for Hypersonic Aerothermodynamics (<span>I</span>n <span>P</span>reparation).”</span>
 </div>
 </li>
 
