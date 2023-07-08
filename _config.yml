@@ -139,6 +139,7 @@ footer-text-col: "#FFFFFF"
 footer-link-col: "#f96d00"
 footer-hover-col: "#0085A1"
 footer-border-col: "#2c2d34"
+page-border-col: "#2c2d34"
 
 # origin
 #navbar-col: "#EAEAEA"
