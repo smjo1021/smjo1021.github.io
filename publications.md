@@ -3,10 +3,22 @@ layout: page
 title: Publications
 ---
 
-<ol reversed>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Rank in Descending order</h2>
+    <ol reversed>
+        <li>Kapil</li>
+        <li>sachin</li>
+        <li>Will</li>
+        <li>nikhil</li>
+        <li>Aakash</li>
+        <li>Steve</li>
+        <li>Rahul</li>
+        <li>Kane</li>
+        <li>Rohan</li>
+        <li>John</li>
+    </ol>
+</body>
 
 
