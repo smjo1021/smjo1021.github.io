@@ -20,6 +20,14 @@ bibliography: mybib.bib
 </ol>
 
 
+<ol reversed>
+<li>
+coffee
+</li>
+<li>
+tea
+</li>
+</ol>
 
 
 
