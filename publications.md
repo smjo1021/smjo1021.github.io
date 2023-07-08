@@ -4,10 +4,11 @@ title: Publications
 bibliography: mybib.bib
 ---
 
+{{< rawhtml >}}
 <ol reversed>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Foo</li>
+  <li>Bar</li>
+  <li>Baz</li>
 </ol>
-
+{{< /rawhtml >}}
 
