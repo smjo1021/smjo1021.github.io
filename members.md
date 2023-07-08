@@ -10,3 +10,4 @@ title: Members
   - Ph.D. Korea Advanced Institute of Science and Technology (2020)
 
 # Researchers
+We are actively looking for new members!
