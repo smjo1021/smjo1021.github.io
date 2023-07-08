@@ -5,6 +5,7 @@ bibliography: mybib.bib
 ---
 
 # Archival International Journals
+\printbibliography[heading={subbibliography},title={Archival International Journals}, type=article, resetnumbers=true]
 
 # International Conference Proceedings
 
