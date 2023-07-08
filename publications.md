@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Publications
+subtitle: Also check out Google Scholar
 ---
+
+https://scholar.google.co.kr/citations?user=qQAZGNQAAAAJ&hl=en
+
 
 # Archival International Journals
 
