@@ -4,7 +4,7 @@ title: Publications
 bibliography: mybib.bib
 ---
 
-<ol reversed>
+<ol reversed="reversed">
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
