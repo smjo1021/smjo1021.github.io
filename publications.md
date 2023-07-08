@@ -4,6 +4,8 @@ title: Publications
 subtitle: Also check out <a href="https://scholar.google.co.kr/citations?user=qQAZGNQAAAAJ&hl=en">Google Scholar</a>.
 ---
 
+Also check out <a href="https://scholar.google.co.kr/citations?user=qQAZGNQAAAAJ&hl=en">Google Scholar</a>.
+
 # Archival International Journals
 
 <ol reversed>
