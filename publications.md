@@ -7,9 +7,6 @@ bibliography: mybib.bib
 # Archival International Journals
 
 
-<body>
-<div id="refs" class="references csl-bib-body hanging-indent"
-role="doc-bibliography">
 <div id="ref-Jo2018Rotor" class="csl-entry" role="doc-biblioentry">
 Jo, Sung Min, J. Y. Hwang, and O. J. Kwon. 2018. <span>“Numerical Study
 of Free-Flight Projectiles Air-Launched from a Rotorcraft.”</span> In
@@ -218,7 +215,6 @@ Radiative Transfer in Hypersonic Atmospheric Entry.”</span> In
 <em><span>AIAA</span> <span>S</span>ci<span>T</span>ech
 <span>F</span>orum</em>. 1730.
 </div>
-</body>
 
 
 # International Conference Proceedings
