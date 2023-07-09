@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: What we do.
+subtitle: Overview of the Research at AAG
 full-width: true
 ---
 
