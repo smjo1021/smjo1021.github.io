@@ -6,12 +6,12 @@ full-width: true
 ---
 
 <object data="/assets/Research_07062023_1.pdf" type="application/pdf" width="80%" height="670rem" data="/assets/Research_07062023_1.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0" id="pdf_content" style="pointer-events: none;" align="middle">
-    <embed src="/assets/Research_07062023_1.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0">
+    <embed src="/assets/Research_07062023_1.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0", align="middle">
     </embed>
 </object>
 
 <object data="/assets/Research_07062023_2.pdf" type="application/pdf" width="80%" height="670rem" data="/assets/Research_07062023_2.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0" id="pdf_content" style="pointer-events: none;" align="middle">
-    <embed src="/assets/Research_07062023_2.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0">
+    <embed src="/assets/Research_07062023_2.pdf#zoom=0&scrollbar=0&toolbar=0&navpanes=0" align="middle">
     </embed>
 </object>
 
