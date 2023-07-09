@@ -2,10 +2,9 @@
 layout: page
 title: Research
 subtitle: What we do.
-full-width: true
+full-width: false
 ---
 
-<!DOCTYPE html>
 <html>
 <body>
   
